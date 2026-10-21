@@ -212,7 +212,7 @@ This project is submitted as part of the **AIML Summer Internship Capstone Proje
 
 ## 👤 Author
 
-**[Your Name Here]**
+**Faiz Khan**
 B.Tech CSE – 3rd Year
 AIML Summer Internship, 2024
 
